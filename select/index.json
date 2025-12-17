@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "夏の在りか",
+  "base_artist": "H△G",
+  "createdAt": "2025-12-17T08:39:17.164749Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏の在りか",
+      "artist": "Hag",
+      "has_synced": true,
+      "path": "select/01_夏の在りか_Hag.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏の在りか",
+      "artist": "H△G",
+      "has_synced": true,
+      "path": "select/02_夏の在りか_H△G.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏の在りか",
+      "artist": "H△G",
+      "has_synced": true,
+      "path": "select/03_夏の在りか_H△G.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏の在りか",
+      "artist": "H△G",
+      "has_synced": false,
+      "path": "select/pl_01_夏の在りか_H△G.txt"
+    }
+  ]
+}
